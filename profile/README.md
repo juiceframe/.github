@@ -1,4 +1,4 @@
-﻿# Juiceframe 🧃
+# Juiceframe 🧃
 
 **Make AI sprites feel like a real game.**
 
